@@ -2,9 +2,9 @@
 main:
   
   - title: "About"
-    url: /docs/about
+    url: /docs/about/
   - title: "Posts"
-    url: /docs/posts
+    url: /docs/posts/
  
   #- title: "Sitemap"
   #  url: /sitemap/
