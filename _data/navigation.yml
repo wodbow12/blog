@@ -1,0 +1,10 @@
+# main links
+main:
+  
+  - title: "About"
+    url: /docs/about
+  - title: "Posts"
+    url: /docs/posts
+ 
+  #- title: "Sitemap"
+  #  url: /sitemap/
